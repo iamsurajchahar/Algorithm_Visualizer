@@ -32,7 +32,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out to u
 
 - **Email:** contact.chahar@gmail.com 📧
 - **LinkedIn:** www.linkedin.com/in/imsurajchahar 💼
-- **Instagram:** suuraaaaj 📷
+- **Instagram:** soorajbutwithu📷
 
 Join the Algorithm Visualizer community and enhance your understanding of algorithms and data structures! 🚀
 
