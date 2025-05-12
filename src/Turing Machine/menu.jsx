@@ -7,17 +7,6 @@ class Menu extends Component {
     render() {
         return (
             <nav className="nav alert-dark">
-
-
-                {/*<DiscreteSlider*/}
-                {/*    default={50}*/}
-                {/*    min={10}*/}
-                {/*    max={100}*/}
-                {/*    step={1}*/}
-                {/*    title="Speed"*/}
-                {/*    onCountChange={this.props.onSpeedChange}*/}
-                {/*    disable={false}*/}
-                {/*/>*/}
                 <SimpleSelect
                     pos={0}
                     onAlgoChanged={this.props.onAlgoChanged}

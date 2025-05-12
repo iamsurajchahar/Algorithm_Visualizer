@@ -6,8 +6,8 @@ import '../helpers/array_helpers';
 import './style.css';
 import {times} from 'lodash';
 
-const FLIP_DURATION = 750;
 
+const FLIP_DURATION = 750;
 class Puzzle extends Component {
     constructor() {
         super();
@@ -17,7 +17,6 @@ class Puzzle extends Component {
             })),
         };
     }
-
     balsal = async () => {
         for (let i = 0; i < 15; i++) {
             this.setState({

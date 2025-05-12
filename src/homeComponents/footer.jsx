@@ -14,7 +14,7 @@ class Footer extends Component {
                     &nbsp
                 </div>
 
-                <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                <div class="footer-copyright text-center py-3">©2024 Copyright:
                     <a href="https://github.com/iamsurajchahar" style={{color: "#65b6f0"}}>Suraj Singh Chahar</a>
                 </div>
 

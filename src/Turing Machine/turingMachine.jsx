@@ -139,22 +139,6 @@ class TuringMachine extends Component {
                     setInput1={this.setInput1}
                     setInput2={this.setInput2}
                 />
-
-                {/*<div className='row'>*/}
-                {/*    <div className="input-group mt-2 col-3">*/}
-                {/*        <input type="text" id='inputText1' className="form-control" placeholder="Input Binary"*/}
-                {/*               aria-label="Username"*/}
-                {/*               aria-describedby="basic-addon1"*/}
-                {/*               onChange={this.setInput1}*/}
-                {/*        />*/}
-                {/*    </div>*/}
-                {/*    <div className="input-group mt-2 col-3">*/}
-                {/*        <input type="text" id='inputText1' className="form-control" placeholder="Input Binary 2"*/}
-                {/*               aria-label="Username"*/}
-                {/*               aria-describedby="basic-addon1"/>*/}
-                {/*    </div>*/}
-                {/*</div>*/}
-
                 <center>
                     <br/>
                     <div className='bg-info'>

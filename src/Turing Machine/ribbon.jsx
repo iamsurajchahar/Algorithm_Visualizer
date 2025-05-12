@@ -4,8 +4,6 @@ import FlipMove from 'react-flip-move';
 
 class Ribbon extends Component {
     render() {
-       // console.log('this.props');
-       // console.log(this.props);
         return (
             <div>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
